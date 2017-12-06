@@ -1,0 +1,16 @@
+{
+  "name": "mytheme",
+  "homepage": "https://mytheme.com",
+  "authors": ["Musaib Qureshi"],
+  "description": "My Theme template",
+  "keywords": ["css","js","html"],
+  "license": "MIT",
+  "devDependencies": {
+    "jquery": "^2.2.3",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.6.1"
+  },
+  "resolutions": {
+    "jquery": "^2.2.3"
+  }
+}
